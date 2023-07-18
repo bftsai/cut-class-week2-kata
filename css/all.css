@@ -198,6 +198,7 @@ h3{
     text-decoration: none;
     width: 162px;
     height: 162px;
+    border-radius: 32px;
 }
 .contactItem2 a:hover{
     filter: drop-shadow(0 0 16px #9094FFE5);
