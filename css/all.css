@@ -201,7 +201,8 @@ h3{
     border-radius: 32px;
 }
 .contactItem2 a:hover{
-    filter: drop-shadow(0 0 16px #9094FFE5);
+    /* filter: drop-shadow(0 0 16px #9094FFE5); */
+    box-shadow: 0 0 16px 3px rgba(144, 148, 255, 0.9);
 }
 .discode{
     background: url(https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/discord.png?raw=true) center center no-repeat;
